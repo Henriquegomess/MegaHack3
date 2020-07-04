@@ -50,6 +50,17 @@ class TelaInicial {
       this.botaoManualInstrucao.y = height * 0.85;
       //this.botaoManualInstrucao.x = width * 0.53;
     }  
+
+      
+    draw() {
+        this._imagemTelaFundo();
+     
+        this._botao();
+      }
+    
+      _imagemTelaFundo() {
+        image(imagemTelaInicial, 0, 0, width, height);
+      }
   
     _botao() {
       this.botaoModoInfinito.draw();
