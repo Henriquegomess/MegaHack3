@@ -25,7 +25,7 @@ class TelaInicial {
         }
       }
       
-      const funcaoManualInstrucao = ()=>{
+        const funcaoManualInstrucao = ()=>{
         this.botao.botao.hide();
         this.botaoModoInfinito.botao.hide();
         this.botaoManualInstrucao.botao.hide();
