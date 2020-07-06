@@ -11,4 +11,6 @@ Criando assim um ambiente lúdico e dinâmico projetado para envolver a geraçã
 
 #### O Produto
 
-Criamos um jogo, como forma de demonstração
+Criamos um jogo, como forma de demonstração. Desenvolvido utilizando o P5.js(https://p5js.org/). Objetivo do jogo é a fazer a bruxa atravessar a floresta, e tem um objetivo, enquanto atravessa, precisa pegar letras para formar a palavra: VOVÓ. Para jogar, basta acessar esse link: https://editor.p5js.org/Henriquegomess/full/-sZel6jx2 .
+
+Código na P5.js ---> https://editor.p5js.org/Henriquegomess/sketches/-sZel6jx2
