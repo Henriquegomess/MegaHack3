@@ -16,6 +16,8 @@ Criamos um jogo, como forma de demonstração. Desenvolvido utilizando o P5.js(h
 Código na P5.js ---> https://editor.p5js.org/Henriquegomess/sketches/-sZel6jx2
 
 
+![Captura de tela de 2020-07-05 22-47-46](https://user-images.githubusercontent.com/58234356/86550970-d2310a80-bf11-11ea-8f0a-88bf64153157.png)
+
 
 ![Captura de tela de 2020-07-05 22-47-55](https://user-images.githubusercontent.com/58234356/86550952-c9403900-bf11-11ea-8cab-c17a7caf4aab.png)
 
